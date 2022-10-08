@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "mark.js": "^8.11.1",
+    "node-sass": "^7.0.1"
   }
 }

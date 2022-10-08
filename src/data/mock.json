@@ -1,0 +1,81 @@
+{
+    "user_list": [
+        {
+            "id": "BB_38524128039",
+            "name": "John Doe",
+            "items": [
+                "Johnny play tshirts",
+                "Xiomi mobiles",
+                "samsung tablets"
+            ],
+            "address": "No.21, 2nd floor, Khirki extension, Koramangala",
+            "pincode": "560043"
+        },
+        {
+            "id": "BB_38524126640",
+            "name": "Clinton David",
+            "items": [
+                "monopoly tshirts",
+                "skull candy",
+                "poco mobiles"
+            ],
+            "address": "No.10, emalaya homes, HRBR block, kalyan nagar",
+            "pincode": "560052"
+        },
+        {
+            "id": "BB_38524127841",
+            "name": "Anand k",
+            "items": [
+                "netplay jeans",
+                "boat earphones 550",
+                "sofa sets"
+            ],
+            "address": "312/1, Bastin nagar 4t street, Bethaniyapuram",
+            "pincode": "600028"
+        },
+        {
+            "id": "BB_38524127945",
+            "name": "Aravindhan",
+            "items": [
+                "monopoly tshirts",
+                "boat headsets",
+                "chairs"
+            ],
+            "address": "312/1, Bastin nagar 4t street, Bethaniyapuram",
+            "pincode": "600028"
+        },
+        {
+            "id": "BB_38524115548",
+            "name": "Bala Murugesan",
+            "items": [
+                "monopoly tshirts",
+                "boat headsets",
+                "chairs"
+            ],
+            "address": "312/1, Bastin nagar 4t street, Bethaniyapuram",
+            "pincode": "625016"
+        },
+        {
+            "id": "BB_38524106050",
+            "name": "Jean Delberk",
+            "items": [
+                "monopoly tshirts",
+                "Realme products",
+                "chair set"
+            ],
+            "address": "312/1, Babusapalaya 4t street, Mylapore",
+            "pincode": "600001"
+        },
+        {
+            "id": "BB_38524154345",
+            "name": "Anand Kishan",
+            "items": [
+                "Raymond shoes",
+                "Apple Iphone",
+                "teamspirit tshirts"
+            ],
+            "address": "312/1, seashell 3rd street, Thiruvanmiyur",
+            "pincode": "600045"
+        }
+    ]
+}
